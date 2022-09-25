@@ -8,3 +8,5 @@ The file 'DomainBigData_fromDomain.py' receives a domain and returns the details
 The file 'DomainBigData_toDomain.py' receives a name or contact information and returns any domains registered by the input data.
 
 Both of these scripts were written as Maltego transforms thus they both receive their inputs from a Maltego map and return entities created based and the results.
+
+Note, the website 'domainbigdata.com' has been dow for several months and may not return.
